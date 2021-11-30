@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Ubuntu+Mono&display=swap");
+.App {
+  font-family: lato, sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+body {
+  background-color: #efefef;
+}
